@@ -1,0 +1,28 @@
+{
+  "name": "random-messages-uploadpackagetest",
+  "version": "1.0.1",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Maxi",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferrerohenrique/random-name-pkg-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ferrerohenrique/random-name-pkg-npm/issues"
+  },
+  "homepage": "https://github.com/ferrerohenrique/random-name-pkg-npm#readme"
+}
